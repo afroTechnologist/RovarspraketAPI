@@ -33,4 +33,4 @@ steps:
  enviroment_name: ExaminationRovarspraketAPI-env 
  version_label: ${{github.run_id}}
  region: eu-north-1
- deplyment_package: site.zip
+ deployment_package: site.zip
